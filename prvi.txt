@@ -1,7 +1,7 @@
 Naslov
 
-Recenica prva
-koja prelazi u sljedeci red
-pa u još jedan
-i još jedan 
-i tako u nedogled.
+Recenica prva,
+Koja prelazi u sljedeci red
+Pa u još jedan
+I još jedan 
+I tako u nedogled.
