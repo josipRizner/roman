@@ -1,0 +1,8 @@
+Upišite nešto u drugi.txt.
+Bilo što. 
+Ali stvarno, što god želite.
+Može i tekst.
+Ne mora biti tekst.
+Ali može biti.
+Ne mora.
+Ok stop!
